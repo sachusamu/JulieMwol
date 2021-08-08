@@ -24,7 +24,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
 *owner number wa.me/919744474996*
 
-*githublink       https://github.com/booldofss/ss-creation-*
+*githublink      https://github.com/booldofss/ss-creation-*
 
 *audio commads    https://github.com/booldofss/ss-creation-/tree/master/uploads*
 
